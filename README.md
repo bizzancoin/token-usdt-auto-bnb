@@ -29,13 +29,13 @@
 
 #### 图片
 
-![币种支持列表](bsc_img_demo\asset.png)
+![币种支持列表](/bsc_img_demo/asset.png)
 
-![充值记录列表](bsc_img_demo\deposit.png)
+![充值记录列表](/bsc_img_demo/deposit.png)
 
-![提现记录](bsc_img_demo\withdraw.png)
+![提现记录](/bsc_img_demo/withdraw.png)
 
-![会员充值演示](bsc_img_demo\deposit_c.png)
+![会员充值演示](/bsc_img_demo/deposit_c.png)
 
 #### 联系我
 
